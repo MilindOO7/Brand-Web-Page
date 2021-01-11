@@ -1,0 +1,55 @@
+{
+  "title": "Brands",
+  "version": 0.1,
+  "description": "http://www.google.com/",
+  "results": [
+    {
+      "title": "Adidas Shoe - 101",
+      "description": "Ipsum eiusmod dolor aliquip proident dolor consequat sint amet velit. Proident amet aute sit non non adipisicing labore incididunt. Aliqua qui qui culpa adipisicing. Consequat voluptate consequat dolor sint",
+      "amount": "₹ 5699",
+      "thumbnail": "assets/images/shoe.jpg"
+    },
+    {
+      "title": "Adidas Shirt - 101",
+      "description": "Ipsum eiusmod dolor aliquip proident dolor consequat sint amet velit. Proident amet aute sit non non adipisicing labore incididunt. Aliqua qui qui culpa adipisicing. Consequat voluptate consequat dolor sint",
+      "amount": "₹ 5699",
+      "thumbnail": "assets/images/shoe.jpg"
+    },
+    {
+      "title": "Puma Shoe - 102",
+      "description": "Ipsum eiusmod dolor aliquip proident dolor consequat sint amet velit. Proident amet aute sit non non adipisicing labore incididunt. Aliqua qui qui culpa adipisicing. Consequat voluptate consequat dolor sint",
+      "amount": "₹ 5699",
+      "thumbnail": "assets/images/shoe.jpg"
+    },
+    {
+      "title": "Puma Shirt - 102",
+      "description": "Ipsum eiusmod dolor aliquip proident dolor consequat sint amet velit. Proident amet aute sit non non adipisicing labore incididunt. Aliqua qui qui culpa adipisicing. Consequat voluptate consequat dolor sint",
+      "amount": "₹ 5699",
+      "thumbnail": "assets/images/shoe.jpg"
+    },
+    {
+      "title": "Reebok Shoe - 103",
+      "description": "Ipsum eiusmod dolor aliquip proident dolor consequat sint amet velit. Proident amet aute sit non non adipisicing labore incididunt. Aliqua qui qui culpa adipisicing. Consequat voluptate consequat dolor sint",
+      "amount": "₹ 5699",
+      "thumbnail": "assets/images/shoe.jpg"
+    },
+    {
+      "title": "Reebok Shirt - 103",
+      "description": "Ipsum eiusmod dolor aliquip proident dolor consequat sint amet velit. Proident amet aute sit non non adipisicing labore incididunt. Aliqua qui qui culpa adipisicing. Consequat voluptate consequat dolor sint",
+      "amount": "₹ 5699",
+      "thumbnail": "assets/images/shoe.jpg"
+    },
+    {
+      "title": "Puma Shoe - 104",
+      "description": "Ipsum eiusmod dolor aliquip proident dolor consequat sint amet velit. Proident amet aute sit non non adipisicing labore incididunt. Aliqua qui qui culpa adipisicing. Consequat voluptate consequat dolor sint",
+      "amount": "₹ 5699",
+      "thumbnail": "assets/images/shoe.jpg"
+    },
+    {
+      "title": "Puma Shoe - 104",
+      "description": "Ipsum eiusmod dolor aliquip proident dolor consequat sint amet velit. Proident amet aute sit non non adipisicing labore incididunt. Aliqua qui qui culpa adipisicing. Consequat voluptate consequat dolor sint",
+      "amount": "₹ 5699",
+      "thumbnail": "assets/images/shoe.jpg"
+    }
+  ]
+}
